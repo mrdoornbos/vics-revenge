@@ -2,6 +2,7 @@
 
 A drop in replacement for the MOS 6560/1 in the Commodore VIC-20
 
+![IMG_1731](https://user-images.githubusercontent.com/3619/167640153-6fc4e0d4-60e1-4b8a-9f0a-83c24d0d7898.jpeg)
 
 
 # FAQ
